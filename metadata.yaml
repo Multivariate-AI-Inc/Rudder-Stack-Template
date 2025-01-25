@@ -1,0 +1,5 @@
+homepage: "https://www.multivariate.tech"
+documentation: "https://www.multivariate.tech/our-products/rudder-stack-template"
+versions:
+  - sha:
+    changeNotes: Initial release.
